@@ -1,8 +1,1 @@
-//
-// Created by olivi on 18/05/2022.
-//
 
-#ifndef MAIN_HUGEFLOATOPERATOR_H
-#define MAIN_HUGEFLOATOPERATOR_H
-
-#endif //MAIN_HUGEFLOATOPERATOR_H
